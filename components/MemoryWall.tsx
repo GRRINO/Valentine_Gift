@@ -10,25 +10,25 @@ const MemoryWall: React.FC<MemoryWallProps> = ({ onNext }) => {
       title: "Our First Steps Together",
       description:
         "The day everything began — shy smiles, quiet walks, and the start of our story",
-      photo: "../photos/6087008934330831116.jpg",
+      photo: "/photos/6087008934330831116.jpg",
     },
     {
       title: "Sunshine & Smiles",
       description:
         "Warm days, carefree laughs, and memories made under summer skies.",
-      photo: "../photos/image.png",
+      photo: "/photos/image.png",
     },
     {
       title: "Us in Every Reflection",
       description:
         "Even in simple moments, being together makes everything feel complete.",
-      photo: "../photos/6087008934330831130.jpg",
+      photo: "/photos/6087008934330831130.jpg",
     },
     {
       title: "Playful Hearts",
       description:
         "Silly poses, shared laughter, and the kind of fun only we understand. ",
-      photo: "../photos/e23a387a-83bd-488c-a6b1-aa879f0832bf.jpg",
+      photo: "/photos/e23a387a-83bd-488c-a6b1-aa879f0832bf.jpg",
     },
   ];
 
